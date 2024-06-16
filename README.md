@@ -28,9 +28,9 @@ project_root/
 │
 ├── Nios II (Snake Game)/
 │ ├── quartus/
-│ │ └── [Quartus project files]
+│ │ └── Quartus project files
 │ └── vhdl/
-│ └── [VHDL files]
+│ └── VHDL files
 │
 ├── demo.MOV
 ├── NiosII.jar
