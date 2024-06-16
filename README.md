@@ -36,6 +36,7 @@ project_root/
 \
 │   └── [VHDL files]
 \
+\
 │
 ├── demo.MOV
 \
