@@ -26,15 +26,17 @@ Your project directory should be structured as follows:
 
 project_root/
 │
-├── Nios II (Snake Game) Folder/
-│ ├── Quartus/
+├── Nios II (Snake Game)/
+│ ├── quartus/
 │ │ └── [Quartus project files]
 │ └── vhdl/
-│   └── [VHDL files]
+│ └── [VHDL files]
 │
+├── demo.MOV
+├── NiosII.jar
+├── README.md
 ├── snake.asm
-├── demo.mov
-└── README.md
+└── snake.pdf
 
 
 ### Steps to Run the Game
