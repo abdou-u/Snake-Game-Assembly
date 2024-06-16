@@ -122,4 +122,4 @@ The game was tested using the nios2sim simulator. The simulator's consistent beh
 - Debug and validate procedures
 
 ## Acknowledgements
-This project was developed as part of a computer architecture course at EPFL. Special thanks to the course instructors and teaching assistants for their support and guidance.
+This project was developed as part of a computer architecture course at EPFL. Special thanks to the course instructors and teaching assistants for their guidance, we had fun!
