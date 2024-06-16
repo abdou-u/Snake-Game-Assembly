@@ -1,4 +1,4 @@
-0# Snake Game in Assembly
+# Snake Game in Assembly
 
 ## Introduction
 This project involves writing a simplified single-player version of the Snake game in assembly language. The game runs on a Nios II processor and is demonstrated on a Gecko4EPFL board. The purpose of this project is to understand computer architecture concepts by implementing a fun and interactive game.
