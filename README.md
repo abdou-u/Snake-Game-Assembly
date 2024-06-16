@@ -27,9 +27,13 @@ Your project directory should be structured as follows:
 project_root/
 
 ├── Nios II (Snake Game)/
+\
 │ ├── quartus/
+
 │ │ └── [Quartus project files]
+
 │ └── vhdl/
+
 │ └── [VHDL files]
 
 │
