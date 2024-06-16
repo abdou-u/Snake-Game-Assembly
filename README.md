@@ -25,17 +25,24 @@ Ensure you have the following tools installed:
 Your project directory should be structured as follows:
 
 project_root/
-│
-├── Nios II (Snake Game)/
-│ ├── quartus/
-│ │ └── Quartus project files
+
+├── Nios II (Snake Game)/├── quartus/
+
+│ │ └── [Quartus project files]
+
 │ └── vhdl/
-│ └── VHDL files
+
+│ └── [VHDL files]
+
 │
 ├── demo.MOV
+
 ├── NiosII.jar
+
 ├── README.md
+
 ├── snake.asm
+
 └── snake.pdf
 
 
